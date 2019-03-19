@@ -32,4 +32,9 @@ def last_element_with_array_methods(array)
   south_east_asia=["Thailand","Cambodia","Singapore","Myanmar"]
   south_east_asia.pop
 end
+
+def length_of_array(array)
+  south_east_asia=["Thailand","Cambodia","Singapore","Myanmar"]
+  south_east_asia.length
+end
   
