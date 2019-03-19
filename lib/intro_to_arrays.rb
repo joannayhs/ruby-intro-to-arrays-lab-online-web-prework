@@ -15,5 +15,5 @@ end
 
 def third_element(array)
    taylor_swift = ["Welcome to New York", "Blank Space", "Style","Out of the Woods"]
-   taylor_swift[3]
+   taylor_swift[2]
  end
